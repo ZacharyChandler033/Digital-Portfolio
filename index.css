@@ -49,6 +49,7 @@
 /* This is have the nav bar gets color and its dementions*/
 .container{
     width: 80%;
+    margin: 0 auto;
 }
 
 body {
