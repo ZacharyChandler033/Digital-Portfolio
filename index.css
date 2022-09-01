@@ -261,6 +261,17 @@ nav a:hover {
 	padding-bottom: 2em;
 	width: 50%;
     }
-    
+
+    .boxtext{
+	margin-left: 25em;
+	margin-right: 25em;
+	padding-left: 1.5em;
+	padding-right: 1.5em;
+	padding-top: 1em;
+	padding-bottom: 1em;
+	font-family:'Work Sans', sans-serif;
+	background-color: white;
+	font-size: 1.1em;
+    }
 }
 
