@@ -52,7 +52,7 @@ h2{
 /* Colors and dementions for the table*/
 .styled-table{
     border-collapse: collapse;
-    margin: 25px 0;
+    margin: 25px, 0;
     margin-left: 30%;
     margin-right: 30%;
     padding-left: 2%;
@@ -99,8 +99,8 @@ h2{
 }
 /* adds the colored box to the paragraphs on the pages*/
 .boxtext{
-    margin-left: 20%;
-    margin-right: 20%;
+    margin-left: 30%;
+    margin-right: 30%;
     padding-left: 2%;
     padding-right: 2%;
     padding-top: 1%;
